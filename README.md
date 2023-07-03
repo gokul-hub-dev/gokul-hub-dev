@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gokul-hub-dev
 - 👀 I’m interested in developing the frimware for microcontrollers
-- 🌱 I’m currently learning DSA
 - I'm new one for this git hub
 
 <!---
